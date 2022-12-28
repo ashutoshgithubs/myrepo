@@ -1,3 +1,4 @@
+// Creating a Binary search ----> Works efficiently when array is sortrd
 #include<iostream>
 using namespace std;
 int binary_search(int Arr[],int n,int key){
