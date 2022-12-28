@@ -32,6 +32,7 @@ int main()
     binary_search(arr, 8, 7);
     cout << "The index of key is:" << binary_search(arr, 10, 7);
     cout << "The index of key is:" << binary_search(arr, 10, 15);
+    cout << "The index of key is:" << binary_search(arr, 10, 42);
 
     return 0;
 }
